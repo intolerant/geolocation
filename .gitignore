@@ -1,0 +1,4 @@
+.forceignore
+**/data
+**/project-scratch-def.json
+**/.sfdx
