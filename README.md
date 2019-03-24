@@ -1,2 +1,0 @@
-# geolocation
-SFDC GeoLocation App
